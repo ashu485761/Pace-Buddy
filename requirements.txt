@@ -1,0 +1,16 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+python-dotenv>=1.0.1
+
+google-adk>=1.14.0
+google-cloud-datastore>=2.19.0
+google-cloud-logging>=3.11.0
+google-cloud-aiplatform>=1.70.0
+
+grpcio>=1.65.0
+protobuf>=5.28.0
+mcp>=1.0.0
+httpx>=0.28.0
+anyio>=4.4.0
+gunicorn>=22.0.0
